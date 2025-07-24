@@ -67,3 +67,40 @@ footer {
 footer img {
   vertical-align: middle;
 }
+
+/* ✅ Responsividade geral */
+@media (max-width: 768px) {
+  img {
+    max-width: 100%;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  body {
+    font-size: 0.95rem;
+  }
+
+  #page {
+    width: 95%;
+    padding: 16px;
+    margin: 24px auto;
+  }
+
+  main {
+    padding: 16px 0;
+  }
+
+  footer {
+    font-size: 0.9rem;
+  }
+
+  footer img {
+    width: 16px;
+  }
+}
