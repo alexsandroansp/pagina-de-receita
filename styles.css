@@ -69,7 +69,7 @@ footer img {
   vertical-align: middle;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 768px) {
   img {
     max-width: 100%;
   }
