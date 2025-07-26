@@ -68,8 +68,7 @@ footer img {
   vertical-align: middle;
 }
 
-/* ✅ Responsividade geral */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   img {
     max-width: 100%;
   }
