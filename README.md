@@ -47,7 +47,11 @@ Reproduzir 100% do layout original, focando em:
 
 📸 **Preview do Projeto**
 
-<img src="![![Página de receita](https://github.com/user-attachments/assets/ddb34e39-c595-4c68-8e10-4756613fccd1)](https://pagina-de-receita-gamma.vercel.app)" width="100%" alt="Imagem do projeto de receita" />
+<p align="center">
+  <a href="https://pagina-de-receita-gamma.vercel.app" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ddb34e39-c595-4c68-8e10-4756613fccd1" width="100%" alt="Imagem do projeto de receita" />
+  </a>
+</p>
 
 ---
 
