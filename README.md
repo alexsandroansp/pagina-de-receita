@@ -32,7 +32,7 @@ Reproduzir 100% do layout original, focando em:
 ---
 
 🎨 **Design Original no Figma**
-[Figma - Página de Receita (Community)]([https://www.figma.com/design/w4YKGqFJRydMwFVwnj9Dub/P%C3%A1gina-de-receita--Community-?node-id=908-1045](https://www.figma.com/design/w4YKGqFJRydMwFVwnj9Dub/P%C3%A1gina-de-receita--Community-?node-id=3-376&p=f&t=dsmkV019upNvzs2t-0))
+[Figma - Página de Receita (Community)](https://www.figma.com/design/w4YKGqFJRydMwFVwnj9Dub/P%C3%A1gina-de-receita--Community-?node-id=908-1045](https://www.figma.com/design/w4YKGqFJRydMwFVwnj9Dub/P%C3%A1gina-de-receita--Community-?node-id=3-376&p=f&t=dsmkV019upNvzs2t-0))
 
 ---
 
