@@ -72,6 +72,9 @@ Reproduzir 100% do layout original, focando em:
 
 📄 **Licença**
 
+Este projeto está licenciado sob a **MIT License**.  
+Você pode usar, modificar e distribuir à vontade — com créditos sempre bem-vindos! 🧑‍💻
+
 ---
 
 🖋️ **Autor**
