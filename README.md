@@ -24,6 +24,7 @@
 ---
 
 🎯 **Objetivo do desafio**
+
 Reproduzir 100% do layout original, focando em:
 
 - Pixel perfect 🧩
