@@ -85,5 +85,5 @@ Aluno da **Rocketseat** e do **Dev Club Tech** 🚀
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Treine+com+projetos+visuais.;Transforme+designs+em+experiência.;Cada+detalhe+importa."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Treine+com+projetos+visuais.;Transforme+designs+em+experiência.;Cada+detalhe+importa." alt="Animação de typing" />
 </p>
