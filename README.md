@@ -1,3 +1,2 @@
-<img width="1280" height="1588" alt="Página de receita" src="https://github.com/user-attachments/assets/96ce9fbe-663e-4cbb-bdb7-6c425432e4da" />
+![Página de receita](https://github.com/user-attachments/assets/453ddb83-036b-4319-96be-18d1678e7aa9)
 
-https://pagina-de-receita-five.vercel.app
